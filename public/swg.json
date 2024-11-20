@@ -6,7 +6,7 @@
     "description": "Hello World",
     "contact": {
       "name": "Source Code",
-      "url": "github.com/balxz/swagger-nextjs"
+      "url": "https://github.com/balxz/swagger-nextjs"
     }
   },
   "paths": {
